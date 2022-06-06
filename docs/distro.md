@@ -432,7 +432,7 @@ Ex.
         "size": 45241339,
         "MD5": "ec2d9fdb14d5c2eafe5975a240202f1a",
         "path": "resourcepacks/WesterosCraft.zip",
-        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/resourcepacks/WesterosCraft.zip"
+        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/prod-1.11.2/resourcepacks/rosCraft.zip"
     }
 }
 ```
